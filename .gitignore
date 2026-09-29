@@ -1,0 +1,12 @@
+# ==========================================
+# EarSwitch Git Ignore
+# Ignore everything by default
+# ==========================================
+/*
+
+# ==========================================
+# Only whitelist specific documentation files
+# ==========================================
+!/.gitignore
+!/README.md
+!/PRIVACY.md
