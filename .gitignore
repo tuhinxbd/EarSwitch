@@ -5,9 +5,10 @@
 /*
 
 # ==========================================
-# Only whitelist specific documentation files
-# ==========================================
 !/.gitignore
-!/Github/
-!/Github/**
+!/README.md
+!/PRIVACY.md
+!/assets/
+!/assets/**
+
 
